@@ -1,0 +1,10 @@
+io/egenchallenge/pwtstarter/ruleFactory/OverWtRule.class
+io/egenchallenge/pwtstarter/ruleFactory/UnderWtRule.class
+io/egenchallenge/pwtstarter/services/InitServices.class
+io/egenchallenge/pwtstarter/dao/AlertDao.class
+io/egenchallenge/pwtstarter/dao/MetricDao.class
+io/egenchallenge/pwtstarter/model/Alert.class
+io/egenchallenge/pwtstarter/controller/AController.class
+io/egenchallenge/pwtstarter/model/Metric.class
+io/egenchallenge/pwtstarter/controller/MController.class
+io/egenchallenge/pwtstarter/PWeightTrackerAPI.class
